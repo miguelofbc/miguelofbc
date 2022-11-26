@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Migue Oliveira
+- 👋 Hi, I’m Miguel Oliveira
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Javascript and Typescript
 - 💞️ I’m looking to collaborate on Playwright
