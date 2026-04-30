@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Miguel Oliveira
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Javascript and Typescript
-- 💞️ I’m looking to collaborate on Playwright
+# Miguel Oliveira
 
-<!---
-miguelofbc/miguelofbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Engineering Manager building **AI-SDLC and agentic test automation** in production SaaS.
+
+I lead a 5-person platform/quality engineering team — Playwright, TypeScript, GitHub Actions, and an in-house agentic test-autofix loop that turns flaky failures into PR-ready fixes.
+
+Open to technical conversations on AI in SDLC and OSS collaboration in the space.
+
+📍 Aveiro, Portugal · 🌐 [miguelofbc.github.io](https://miguelofbc.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/miguel-oliveira-27a70049/)
