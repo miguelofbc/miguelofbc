@@ -6,4 +6,4 @@ I lead a 5-person platform/quality engineering team — Playwright, TypeScript, 
 
 Open to technical conversations on AI in SDLC and OSS collaboration in the space.
 
-📍 Aveiro, Portugal · 🌐 [miguelofbc.github.io](https://miguelofbc.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/miguel-oliveira-27a70049/)
+📍 Aveiro, Portugal · 🌐 [miguelofbc.github.io](https://miguelofbc.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/miguelofbc)
